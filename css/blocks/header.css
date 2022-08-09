@@ -1,0 +1,49 @@
+.header {
+    padding-top: 13px;
+    padding-bottom: 11px;
+    height: 60px;
+    color: #FFFFFF;
+    font-family: 'Proxima Nova Rg';
+}
+
+.header-row {
+    display: flex;
+    align-items: center;
+    
+    justify-content: space-between;
+}
+.header-logo {
+}
+.header-nav {
+    font-weight: 400;
+    font-size: 14px;
+    
+}
+
+.header-nav ul {
+    display: flex;
+    
+
+}
+.header-nav li{
+   
+
+    margin-left: 50px;
+}
+.header-nav a:hover { 
+    color: #018ABE;
+    transition:  .5s ease;
+}
+
+.header-btn, a.header-btn{
+padding: 9px 15px;
+width: 155px;
+height: 36px;
+background: #018ABE;
+border-radius: 3px;
+transition: opacity 0.2s ease;
+font-size: 13px;
+}
+.header-btn :hover, a.header-btn :hover { 
+  opacity: 0.5;
+}
