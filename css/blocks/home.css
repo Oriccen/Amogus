@@ -1,0 +1,65 @@
+.home {
+    font-family: 'El Messiri Bold';
+}
+
+.home-content {
+    font-family: 'El Messiri Bold';}
+
+.home-heading {
+    font-size: 64px;
+    margin-bottom: 140px;
+    width: 537px;
+    text-align: center;
+    font-family: 'El Messiri Bold';
+}
+
+.home-text {
+    margin-bottom: 40px;
+    font-size: 24px;
+    font-family: 'El Messiri Bold';
+}
+
+.home-rectangle-right {
+    position: absolute;
+    width: 28px;
+    height: 14px;
+    top: 265px;
+    left: 970px;
+    transform: translate(-50%, -50%);
+    background: #FFFFFF;
+    border-radius: 0px 50px;
+}
+
+.home-rectangle-left {
+    position: absolute;
+    width: 28px;
+    height: 14px;
+    left: 746px;
+    top: 238px;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 0px 50px;
+}
+
+.home-bg-img {
+    margin-top: 50px;
+    height: 600px;
+    width: 1300px;
+    background: url("../../img/home/home.png") center no-repeat;
+    background-size: contain;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-family: 'El Messiri Bold';
+}
+.home-rectangle-right {
+    position: absolute;
+    width: 28px;
+    height: 14px;
+    left: 1175px;
+    top: 238px;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    transform: matrix(-1, 0, 0, 1, 0, 0);
+}

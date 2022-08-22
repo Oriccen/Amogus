@@ -3,7 +3,7 @@
 @font-face {
     font-family: 'El Messiri';
     src: url('ElMessiri-Bold.eot');
-    src: local('El Messiri Bold'), local('ElMessiri-Bold'),
+    src: local(''), local('ElMessiri-Bold'),
         url('ElMessiri-Bold.eot?#iefix') format('embedded-opentype'),
         url('ElMessiri-Bold.woff') format('woff'),
         url('ElMessiri-Bold.ttf') format('truetype');

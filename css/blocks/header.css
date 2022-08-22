@@ -9,11 +9,9 @@
 .header-row {
     display: flex;
     align-items: center;
-    
     justify-content: space-between;
 }
-.header-logo {
-}
+
 .header-nav {
     font-weight: 400;
     font-size: 14px;
@@ -22,8 +20,6 @@
 
 .header-nav ul {
     display: flex;
-    
-
 }
 .header-nav li{
    
