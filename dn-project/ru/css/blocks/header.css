@@ -1,0 +1,43 @@
+.header {
+    color: #828282;
+    font-family: 'Gilroy';
+    line-height: 22px;
+    font-weight: bold;
+
+}
+
+.header-row {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+
+}
+
+.header-nav {
+    margin-top: 32px;
+    font-size: 18px;
+    border-bottom: 1px solid #828282;
+    padding-bottom: 32px;
+
+}
+
+.header-nav ul {
+    display: flex;
+
+}
+
+.header-nav li:not(:first-child) {
+    margin-left: 155px;
+
+}
+
+.header-nav a:hover {
+    color: black;
+    transition: .6s;
+}
+
+.header-nav a {
+    text-decoration: none;
+    color: #828282;
+}

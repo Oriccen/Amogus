@@ -1,0 +1,41 @@
+.skills-title {
+    font-family: 'Gilroy';
+    font-size: 34px;
+    line-height: 59px;
+    font-weight: bold;
+    margin-top: 91px;
+    text-align: center;
+}
+
+.skills-text {
+    font-family: 'Gilroy';
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    font-style: normal;
+    font-weight: 500;
+    margin-top: 69px;
+}
+
+.skills-imgs {
+    display: flex;
+    margin-top: 83px;
+
+
+}
+
+.skills-imgs_ps {
+    margin-left: 251px;
+}
+
+.skills-imgs_ai {
+    margin-left: 90px;
+}
+
+.skills-imgs_ae {
+    margin-left: 90px;
+}
+
+.skills-imgs_figma {
+    margin-left: 90px;
+}

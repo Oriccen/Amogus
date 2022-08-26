@@ -1,0 +1,44 @@
+.home-content {
+    display: flex;
+}
+
+.home-title {
+    font-family: 'Gilroy';
+    font-size: 47px;
+    line-height: 59px;
+    font-weight: bold;
+    margin-left: 251px;
+    margin-top: 39px;
+}
+
+.home-text {
+    font-family: 'Gilroy';
+    font-size: 18px;
+    line-height: 22px;
+    font-weight: 500;
+    font-style: normal;
+    margin-left: 297px;
+    margin-top: 95px;
+}
+
+.home-lang_switch {
+    font-family: 'Gilroy';
+    font-size: 16px;
+    line-height: 20px;
+    font-weight: bold;
+    transform: rotate(-90deg);
+    margin-top: 66px;
+    margin-left: 360px;
+}
+
+.home-lang_switch a:hover {
+    transition: .6s;
+    color: #828282;
+
+}
+
+
+.home-img {
+    margin-top: 50px;
+    margin-left: 251px;
+}

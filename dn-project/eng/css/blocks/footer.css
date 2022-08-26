@@ -1,0 +1,111 @@
+.footer {
+  
+}
+
+.footer-content {}
+
+.footer-title {
+    font-family: 'Gilroy';
+    font-size: 34px;
+    line-height: 42px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 114px;
+
+}
+
+.footer-subtitle {
+    font-family: 'Gilroy';
+    font-size: 18px;
+    line-height: 22px;
+    font-weight: 500;
+    font-style: normal;
+    text-align: center;
+    margin-top: 20px;
+
+}
+
+.footer-btn {
+    background: black;
+    border-radius: 20px;
+    max-width: 180px;
+    height: 42px;
+    margin-left: 635px;
+    margin-top: 30px;
+}
+
+.footer-btn-text {
+    padding-top: 10px;
+}
+
+.footer-btn-text a {
+    font-family: 'Gilroy';
+    font-size: 18px;
+    line-height: 22px;
+    font-weight: 500;
+    font-style: normal;
+    text-align: center;
+    justify-items: center;
+    color: white;
+    margin-left: 30px;
+}
+
+.footer-btn-text a:hover{
+    transition: .6s;
+    color: #828282;
+}
+
+.footer-social-icons  {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-items: center;
+    
+    
+}
+
+.footer-social-icons i{
+
+   
+}
+.footer-social_icon_linkedin img{
+width: 40px;
+height: 40px;
+margin-left: 550px;
+margin-top: 87px;
+
+}
+
+.footer-social_icon_instagram img {
+    width: 40px;
+    height: 40px;
+    margin-left: 61px;
+    margin-top: 87px;
+}
+
+.footer-social_icon_behance img {
+    width: 40px;
+    height: 40px; 
+    margin-left: 61px;
+    margin-top: 87px;
+}
+
+.footer-social_icon_dribbble img{
+    width: 40px;
+    height: 40px;  
+    margin-left: 61px;
+    margin-top: 87px;
+}
+
+.footer-text {
+    font-family: 'Gilroy';
+    font-size: 14px;
+    line-height: 17px;
+    font-weight: 500;
+    font-style: normal;
+    text-align: center;
+    margin-top: 20px;
+    color: #828282;
+    padding-bottom: 123px;
+    margin-top: 45px;
+}

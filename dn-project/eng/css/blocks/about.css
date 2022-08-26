@@ -1,0 +1,38 @@
+.about {
+    margin-top: 105px;
+    background: #F6F6F6;
+}
+
+.about-content {}
+
+.about-title {
+    font-size: 34px;
+    line-height: 42px;
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Gilroy';
+    padding-top: 120px;
+}
+
+.about-text {
+    font-family: 'Gilroy';
+    font-size: 18px;
+    line-height: 22px;
+    font-weight: 500;
+    font-style: normal;
+    text-align: center;
+
+}
+
+.about-text-denis {
+    margin-top: 18px;
+}
+
+.about-text-web {
+    margin-top: 50px;
+}
+
+.about-text-implement {
+    margin-top: 50px;
+    padding-bottom: 107px;
+}
