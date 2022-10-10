@@ -1,0 +1,58 @@
+.weekend-cabin__line {
+    background: #E08631;
+    width: 56px;
+    height: 8px;
+    margin-left: 700px;
+    margin-bottom: 32px;
+    margin-top: 100px;
+}
+
+.weekend-cabin__title {
+    font-style: bold;
+    font-weight: 700;
+    font-size: 96px;
+    line-height: 96px;
+    text-align: center;
+    color: #52503B;
+    margin-bottom: 140px;
+}
+
+.weekend-cabin__img {
+    min-width: 1900px;
+    z-index: -200;
+    position: relative;
+    background: #FAF8F0;
+}
+
+.weekend-cabin__img-line {
+    background: #E08631;
+    width: 56px;
+    height: 8px;
+    margin-top: -425px;
+    position: relative;
+    z-index: 100;
+    margin-left: 1280px;
+}
+
+.weekend-cabin__img-title {
+    margin-left: 1280px;
+    margin-bottom: 11px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #333333;
+    margin-top: 11px;
+}
+
+.weekend-cabin__img-subtitle {
+    margin-left: 1280px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    color: #333333;
+    padding-bottom: 450px;
+}

@@ -1,0 +1,113 @@
+.escape {}
+
+.container {}
+
+.escape__content {}
+
+.escape__line {
+    background: #E08631;
+    width: 56px;
+    height: 8px;
+    margin-top: 100px;
+}
+
+.escape__title {
+    margin-top: 30px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 36px;
+    color: #52503B;
+}
+
+.escape__subtitle {
+    margin-top: 12px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #52503B;
+}
+
+.escape__column-row {
+    display: flex;
+    margin-top: 54px;
+    justify-content: space-between;
+    padding-bottom: 129px;
+    .escape__column-left {
+        .escape__column-left-kitchen {
+            display: flex;
+            margin-bottom: 42px;
+            .escape__column-left-kitchen-img {}
+            .escape__column-left-kitchen-title {
+                margin-left: 21px;
+            }
+            .escape__column-left-kitchen-subtitle {}
+        }
+        .escape__column-left-outdoor {
+            display: flex;
+            margin-bottom: 42px;
+            .escape__column-left-outdoor-img {}
+            .escape__column-left-outdoor-title {
+                margin-left: 21px;
+            }
+            .escape__column-left-outdoor-subtitle {}
+        }
+        .escape__column-left-coffee {
+            display: flex;
+            margin-bottom: 42px;
+            .escape__column-left-coffee-img {}
+            .escape__column-left-coffee-title {
+                margin-left: 21px;
+            }
+            .escape__column-left-coffee-subtitle {}
+        }
+        .escape__column-left-scenery {
+            display: flex;
+            margin-bottom: 42px;
+            .escape__column-left-scenery-img {}
+            .escape__column-left-scenery-title {
+                margin-left: 21px;
+            }
+            .escape__column-left-scenery-subtitle {}
+        }
+    }
+    .escape__column-right {
+        .escape__column-right-conditioner {
+            display: flex;
+            margin-bottom: 42px;
+            .escape__column-right-conditioner-img {}
+            .escape__column-right-conditioner-title {
+                margin-left: 21px;
+            }
+            .escape__column-right-conditioner-subtitle {}
+        }
+        .escape__column-right-storage {
+            display: flex;
+            margin-bottom: 42px;
+            .escape__column-right-storage-img {}
+            .escape__column-right-storage-title {
+                margin-left: 21px;
+            }
+            .escape__column-right-storage-subtitle {}
+        }
+        .escape__column-right-cultery {
+            display: flex;
+            margin-bottom: 42px;
+            .escape__column-right-cultery-img {}
+            .escape__column-right-cultery-title {
+                margin-left: 21px;
+            }
+            .escape__column-right-cultery-subtitle {}
+        }
+        .escape__column-right-takeaway {
+            display: flex;
+            margin-bottom: 42px;
+            .escape__column-right-takeaway-img {}
+            .escape__column-right-takeaway-title {
+                margin-left: 21px;
+            }
+            .escape__column-right-takeaway-subtitle {}
+        }
+    }
+}

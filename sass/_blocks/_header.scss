@@ -1,0 +1,38 @@
+.header {
+    background-image: url("/img/header/bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.header__content-logo {
+    padding-top: 180px;
+    margin-left: 592px;
+}
+
+.header__content-title {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 53px;
+    text-align: center;
+    color: #FFFFFF;
+    margin-top: 37px;
+}
+
+.header__content-subtitle {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    text-align: center;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    margin-top: 33px;
+}
+
+.header__content-scroll-img {
+    margin-left: 690px;
+    margin-top: 113px;
+    padding-bottom: 99px;
+}
